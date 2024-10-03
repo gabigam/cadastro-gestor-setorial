@@ -34,12 +34,15 @@ O projeto **Cadastro-Gestor-Setorial** é uma aplicação React que permite o re
    git clone https://github.com/gabigam/cadastro-gestor-setorial.git
 
 2. Navegue até o diretório do projeto:
+   
 cd cadastro-gestor-setorial
 
 3. Instale as dependências:
+   
 npm install
 
 4. Inicie o servidor de desenvolvimento:
+   
 npm start
 
 Agora você pode acessar a aplicação no seu navegador, geralmente em http://localhost:3000
