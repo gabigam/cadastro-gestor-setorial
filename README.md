@@ -1,3 +1,6 @@
+Aqui está o conteúdo completo do README em formato Markdown:
+
+```markdown
 # Cadastro-Gestor-Setorial
 
 O projeto **Cadastro-Gestor-Setorial** é uma aplicação React que permite o registro de gestores setoriais com validação de formulários. Os usuários podem inserir seu nome, setor de atuação, e-mail e telefone, com feedback instantâneo sobre os dados inseridos.
@@ -32,17 +35,26 @@ O projeto **Cadastro-Gestor-Setorial** é uma aplicação React que permite o re
 
    ```bash
    git clone https://github.com/gabigam/cadastro-gestor-setorial.git
+   ```
 
 2. Navegue até o diretório do projeto:
-   
-  cd cadastro-gestor-setorial
+
+   ```bash
+   cd cadastro-gestor-setorial
+   ```
 
 3. Instale as dependências:
-   
-  npm install
+
+   ```bash
+   npm install
+   ```
 
 4. Inicie o servidor de desenvolvimento:
-   
-  npm start
 
-Agora você pode acessar a aplicação no seu navegador, geralmente em http://localhost:3000
+   ```bash
+   npm start
+   ```
+
+Agora você pode acessar a aplicação no seu navegador, geralmente em [http://localhost:3000](http://localhost:3000).
+
+
