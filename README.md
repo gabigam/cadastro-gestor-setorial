@@ -56,5 +56,5 @@ O projeto **Cadastro-Gestor-Setorial** é uma aplicação React que permite o re
    ```
 
 Agora você pode acessar a aplicação no seu navegador, geralmente em [http://localhost:3000](http://localhost:3000).
-
+```
 
