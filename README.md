@@ -33,9 +33,9 @@ O projeto **Cadastro-Gestor-Setorial** é uma aplicação React que permite o re
 
 1. Clone o repositório:
 
-   
+   ```bash
    git clone https://github.com/gabigam/cadastro-gestor-setorial.git
-   
+   ```
 
 2. Navegue até o diretório do projeto:
 
