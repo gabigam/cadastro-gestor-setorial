@@ -35,14 +35,14 @@ O projeto **Cadastro-Gestor-Setorial** é uma aplicação React que permite o re
 
 2. Navegue até o diretório do projeto:
    
-cd cadastro-gestor-setorial
+  cd cadastro-gestor-setorial
 
 3. Instale as dependências:
    
-npm install
+  npm install
 
 4. Inicie o servidor de desenvolvimento:
    
-npm start
+  npm start
 
 Agora você pode acessar a aplicação no seu navegador, geralmente em http://localhost:3000
