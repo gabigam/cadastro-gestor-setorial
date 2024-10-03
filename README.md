@@ -1,6 +1,3 @@
-Aqui está o conteúdo completo do README em formato Markdown:
-
-```markdown
 # Cadastro-Gestor-Setorial
 
 O projeto **Cadastro-Gestor-Setorial** é uma aplicação React que permite o registro de gestores setoriais com validação de formulários. Os usuários podem inserir seu nome, setor de atuação, e-mail e telefone, com feedback instantâneo sobre os dados inseridos.
